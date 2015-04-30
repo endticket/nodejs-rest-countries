@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-restcountries",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node --harmony app.js",
+    "test": "mocha --harmony"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
