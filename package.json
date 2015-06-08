@@ -1,8 +1,9 @@
 {
   "name": "nodejs-restcountries",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "koa": "^0.21.0",
+    "koa-cors": "0.0.16",
     "koa-router": "^5.1.1"
   },
   "devDependencies": {},
