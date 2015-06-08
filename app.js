@@ -29,4 +29,4 @@ app
   .use(router.routes())
   .use(router.allowedMethods());
 
-app.listen(3005);
+app.listen(process.env.PORT || 3005);
